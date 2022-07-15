@@ -1,6 +1,6 @@
 # search-bookmark README
 
-This is the README for your extension "search-bookmark". After writing up a brief description, we recommend including the following sections.
+This is the README for the extension "search-bookmark". It is made only for my needs, thanks to failing on finding out exquisite plugin I wish to use.
 
 ## Features
 
