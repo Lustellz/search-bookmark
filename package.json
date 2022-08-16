@@ -1,6 +1,6 @@
 {
   "name": "search-bookmark",
-	"displayName": "search-bookmark",
+	"displayName": "searchBookmark",
 	"description": "Cache and mark the terms you had searched up to 10 on your opened file",
 	"version": "0.0.1",
 	"engines": {
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:search-bookmark.helloWorld"
+        "onCommand:searchBookmark.startMarking"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "search-bookmark.helloWorld",
-            "title": "Hello World"
+            "command": "searchBookmark.startMarking",
+            "title": "Operation Info"
 
 		}]
 	},
