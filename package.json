@@ -10,14 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:searchmarker.helloWorld"
+        "onCommand:extension.startMark"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "searchmarker.helloWorld",
-            "title": "Hello World"
-
+            "command": "extension.startMark",
+            "title": "Enterance Message"
 		}]
 	},
 	"scripts": {
